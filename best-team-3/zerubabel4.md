@@ -41,11 +41,3 @@ an esport company.
 🌋camera man for events and such things and editing videos and picture.
 
 🌋 working on nft project called african land.
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="65">
-𝓬𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 𝓸𝓷
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zerubabel4)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='github' height='40'>](zelelewzerubabel@gmail.com)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='github' height='40'>](https://instagram.com/prince__zg?utm_medium=copy_link)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg' alt='github' height='40'>](https://www.tiktok.com/@princepm_)
