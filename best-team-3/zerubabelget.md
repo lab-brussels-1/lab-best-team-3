@@ -6,7 +6,7 @@ i'm came from ethiopia
 
 i'm 22
 
-and i like to try new things é workout
+and i like to try new things & workout
 
 i was taking french lesson but now i'm taking web developing corse at HYF.
 
