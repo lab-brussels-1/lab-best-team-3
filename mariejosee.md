@@ -17,6 +17,15 @@ The languages I speak:
 4. Basic Swahili and
 5. Basic Ducth.
 
+## Schools
+
+| options          |  Description  |
+| :--------------- | :-----------: |
+| Primary school   | Mweya Gisenyi |
+| Secondary school | GSNDA Nyundo  |
+| Bachelor         |  Kist Kigali  |
+| Masters          | UWC Cape Town |
+
 I did ICT for development as studies, and I designed a billing system for a
 wireless mesh network as project for my Masters
 
@@ -31,4 +40,4 @@ admin and paper processing, but that's a story for an other day.
 - I enjoy swimming, dansing and hiking.
 - I also like the idea of being a **gig** (_Developper_)
 
-Have you like this place like me? ![Atomium](/Photo/atomium.jpeg)
+Have you like this place like me? ![atomium](/photo/atomium.jpeg)
