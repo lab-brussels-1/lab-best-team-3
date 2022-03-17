@@ -1,18 +1,19 @@
 # Project mangement group 3
 
 <!-- describe your project -->
-## Group members:
 
-* [Zeynep](https://github.com/Melati5)
-* [Shewit](https://github.com/Shewitttt)
-* [Marie Josée](https://github.com/Ufitamahoro)
-* [Maha](https://github.com/MahaLubbad)
-* [Zerubabel](https://github.com/zerubabel4)
-* [Carsiti](https://github.com/lab-brussels-1/home/blob/main/student-bios/Carsiti.md)
-* [Kaveh](https://github.com/KavehMrh)
-* [kiishiakande](https://github.com/kiishiakande)
+## Group members
 
- 
+- [Zeynep](https://github.com/Melati5)
+- [Shewit](https://github.com/Shewitttt)
+- [Marie Josée](https://github.com/Ufitamahoro)
+- [Maha](https://github.com/MahaLubbad)
+- [Zerubabel](https://github.com/zerubabel4)
+- [Carsiti](https://github.com/lab-brussels-1/home/blob/main/student-bios/Carsiti.md)
+- [Kaveh](https://github.com/KavehMrh)
+- [kiishiakande](https://github.com/kiishiakande)
+- [Yea Sung](https://github.com/yeasung2400)
+
 ## Getting Started
 
 <!-- a guide to using this repository -->
