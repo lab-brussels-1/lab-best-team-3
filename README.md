@@ -5,6 +5,7 @@
 ## Group members
 
 - [Zeynep](https://github.com/Melati5)
+- [Zeynep-bio](best-team-3/zeynep.md)
 - [Shewit](https://github.com/Shewitttt)
 - [Marie Josée](https://github.com/Ufitamahoro)
 - [Maha](https://github.com/MahaLubbad)
