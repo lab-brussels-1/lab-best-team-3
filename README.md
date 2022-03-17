@@ -6,10 +6,10 @@
 
 - [Zeynep](https://github.com/Melati5)
 - [Zeynep-bio](best-team-3/zeynep.md)
-- [Shewit](https://github.com/Shewitttt)
+- [Shewit](https://github.com/lab-brussels-1/lab-best-team-3/blob/master/best-team-3/shewitttt-bio.md)
 - [Marie Josée](https://github.com/Ufitamahoro)
-- [Maha](https://github.com/MahaLubbad)
-- [Zerubabel](https://github.com/zerubabel4)
+- [Maha](https://github.com/lab-brussels-1/lab-best-team-3/blob/master/best-team-3/maha-bio.md)
+- [Zerubabel](https://github.com/lab-brussels-1/lab-best-team-3/blob/master/best-team-3/zerubabel4.md)
 - [Carsiti](https://github.com/lab-brussels-1/home/blob/main/student-bios/Carsiti.md)
 - [Kaveh](https://github.com/KavehMrh)
 - [kiishiakande](https://github.com/kiishiakande)
