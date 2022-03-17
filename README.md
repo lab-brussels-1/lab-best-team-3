@@ -4,11 +4,11 @@
 
 ## Group members
 
-- [Zeynep](https://github.com/Melati5)
-- [Shewit](https://github.com/lab-brussels-1/lab-best-team-3/blob/master/best-team-3/shewitttt-bio.md)
+- [Zeynep](best-team-3/zeynep.md)
+- [Shewit](best-team-3/shewitttt-bio.md)
 - [Marie Josée](https://github.com/Ufitamahoro)
-- [Maha](https://github.com/lab-brussels-1/lab-best-team-3/blob/master/best-team-3/maha-bio.md)
-- [Zerubabel](https://github.com/lab-brussels-1/lab-best-team-3/blob/master/best-team-3/zerubabel4.md)
+- [Maha](best-team-3/maha-bio.md)
+- [Zerubabel](best-team-3/zerubabel4.md)
 - [Carsiti](https://github.com/lab-brussels-1/home/blob/main/student-bios/Carsiti.md)
 - [Kaveh](https://github.com/KavehMrh)
 - [kiishiakande](https://github.com/kiishiakande)
