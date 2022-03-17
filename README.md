@@ -11,6 +11,7 @@
 * [Carsiti](https://github.com/lab-brussels-1/home/blob/main/student-bios/Carsiti.md)
 * [Kaveh](https://github.com/KavehMrh)
 * [kiishiakande](https://github.com/kiishiakande)
+* [Yea Sung] (https://github.com/yeasung240)
 
  
 ## Getting Started
