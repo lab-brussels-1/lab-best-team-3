@@ -1,4 +1,4 @@
-# Hello there :wave
+# Hello there :wave:
 
 This is _Zeynep_ :tada:
 
@@ -6,9 +6,9 @@ This is _Zeynep_ :tada:
 
 :herb: Based in Cyprus :ear_of_rice:
 
-1. \*\* Studied Mathematics,Indonesian :mortar_board:
+1. **Studied Mathematics,Indonesian** :mortar_board:
 
-2. \*\* Studying French and IT :jack_o_lantern:
+2. **Studying French and IT** :jack_o_lantern:
 
 3. I love programming :computer:, art :art:, nature :palm_tree:, animals :cat2:
 
