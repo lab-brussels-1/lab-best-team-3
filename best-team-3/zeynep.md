@@ -1,4 +1,4 @@
-# Hello there :wave:
+# Hello there :wave
 
 This is _Zeynep_ :tada:
 
