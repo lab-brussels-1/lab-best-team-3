@@ -11,7 +11,7 @@
 - [Zerubabel](best-team-3/zerubabel4.md)
 - [Carsiti](https://github.com/lab-brussels-1/home/blob/main/student-bios/Carsiti.md)
 - [Kaveh](https://github.com/KavehMrh)
-- [kiishiakande](https://github.com/kiishiakande)
+- [kiishiakande](best-team-3/kiishi-info.md)
 - [Yea Sung](https://github.com/yeasung240)
 
 ## Getting Started
